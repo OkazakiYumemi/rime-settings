@@ -1,0 +1,14 @@
+# .gitignore for Rime configuration files and directories
+*.custom.yaml
+.DS_Store
+/*.userdb/
+/build/
+/rime.wiki/
+/sync/
+/temp/
+/test/
+__pycache__
+cache*
+installation.yaml
+sync
+user.yaml
