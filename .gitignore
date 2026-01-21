@@ -1,5 +1,5 @@
 # .gitignore for Rime configuration files and directories
-*.custom.yaml
+# *.custom.yaml
 .DS_Store
 /*.userdb/
 /build/
